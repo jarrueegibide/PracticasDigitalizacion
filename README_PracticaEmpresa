@@ -1,0 +1,53 @@
+
+PRACTICA EMPRESA - 28/11/2025
+
+
+1. Pide al usuario el nombre de la empresa
+
+2. Añade a la lista llamada "ingresos", los ingresos de 5 días diferentes (L-V).
+Para ello usa un bucle, input (para ingresas los ingresos manualmente) y .append para añadir el ingreso a la lista.
+
+3. Añade a la lista llamada "gastos", los gastos de 5 días diferentes (L-V) de la misma manera.
+
+4. Muestra todos los ingresos y gastos (Registro de ingresos y Registro de gastos)
+
+5. Calcula el total de los ingresos (usando bucle como hemos visto en clase y en el último ejercicio del examen)
+
+6. Calcula el total de los gastos de la misma manera
+
+7. Calcula el balance
+
+8. Mostrar el resumen final: Empresa, Total ingreso, Total gastos y Balance mensual
+
+
+EJERCICIOS EXTRA:
+9. Muestra el primer ingreso de la lista y el último ingreso de la lista de ingresos.
+10. Muestra el numero de elementos que tiene la lista de ingresos.
+
+
+El resultado esperado es este:
+
+=== SISTEMA DE GESTIÓN FINANCIERA ===
+--- REGISTRO MENSUAL ---
+Nombre de la empresa: Egibide S.L.
+
+--- REGISTRO DE INGRESOS ---
+Ingreso del día 1: €500
+Ingreso del día 2: €750
+Ingreso del día 3: €600
+Ingreso del día 4: €800
+Ingreso del día 5: €650
+
+--- REGISTRO DE GASTOS ---
+Gasto del día 1: €200
+Gasto del día 2: €300
+Gasto del día 3: €150
+Gasto del día 4: €400
+Gasto del día 5: €250
+
+
+--- RESUMEN FINANCIERO ---
+Empresa: Mi Empresa S.L.
+Total ingresos: € 3300.0
+Total gastos: € 1300.0
+Balance mensual: € 2000.0
