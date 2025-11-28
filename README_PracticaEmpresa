@@ -23,6 +23,7 @@ Para ello usa un bucle, input (para ingresas los ingresos manualmente) y .append
 EJERCICIOS EXTRA:
 9. Muestra el primer ingreso de la lista y el último ingreso de la lista de ingresos.
 10. Muestra el numero de elementos que tiene la lista de ingresos.
+11. Uiba me he confundido! Cambia el valor del primer ingreso a 300 y muestralo.
 
 
 El resultado esperado es este:

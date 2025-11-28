@@ -11,17 +11,17 @@ Muestra el número del producto, el precio original y el precio final (print)
 """
 
 # Lista los precios del 10 al 50 (de 10 en 10)
-precios = [, , , , ]
+precios = [12,35,11,46,3]
 
 # Recorre cada producto
-for i in range(___):
-    precio_original = ___
+for i in range(5):
+    precio_original = precios[i]
 
     # Aplica descuento si el precio es mayor que ___
-    if precio_original > ___:
-        precio_final =  # Aplica un ___% de descuento
+    if precio_original > 30:
+        precio_final = precio_original * 0.9 # Aplica un ___% de descuento
     else:
-        precio_final = ___
+        precio_final = precio_original
 
     # Muestra el resultado
-    print("Producto", i + 1, "- Precio original:", ___, "- Precio final:", ___)
+    print("Producto", i + 1, "- Precio original:", precio_original, "- Precio final:", precio_final)
